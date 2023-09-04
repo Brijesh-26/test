@@ -1,0 +1,5 @@
+{{#user}}
+Name: Brijesh Kumar Verma
+Skills: HTML, CSS, Bootstrap, Django, Python, Flutter 
+Email: brijeshkumarv598@gmail.com 
+{{/user}}
